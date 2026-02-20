@@ -13,7 +13,7 @@ A comparative study across 21 experiments - Random Forest, CNN, and EfficientNet
 ## Project Structure
 ```
 ├── Intel_Image_Classification_Full_Comparison.ipynb   # Main notebook (21 experiments)
-└── Intel_Scene_Classification_Report.pdf              # Written report
+└── README.md             
 ```
 
 ## Setup
