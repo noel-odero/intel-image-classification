@@ -25,7 +25,7 @@ pip install kagglehub scikit-image scikit-learn tensorflow opencv-python
 
 1. Open the notebook in Google Colab
 2. Set runtime to **GPU (T4 recommended)**
-3. Run all cells top to bottom — no manual setup required
+3. Run all cells top to bottom - no manual setup required
 
 The dataset downloads automatically in Cell 1. All 21 experiments run sequentially.
 
